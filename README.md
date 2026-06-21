@@ -56,7 +56,7 @@ sql dump file:
 ![Dashboard](screenshots/S_-6.PNG)
 
 ### Database & Cache Working
-![Cache](screenshots/S_-7.PNG)
+![Cache](screenshots/S_-8.PNG)
 
 ### Security groups
 ![SG](screenshots/S_-9.PNG)
