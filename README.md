@@ -50,10 +50,13 @@ sql dump file:
 ![S3](screenshots/S_-3.PNG)
 
 ### Application Login Page
-![Login](screenshots/S_-5.PNG)
+![Login](screenshots/S_-4.PNG)
 
 ### Application Dashboard
-![Dashboard](screenshots/S_-7.PNG)
+![Dashboard](screenshots/S_-6.PNG)
 
 ### Database & Cache Working
-![Cache](screenshots/S_-9.PNG)
+![Cache](screenshots/S_-7.PNG)
+
+### Security groups
+![SG](screenshots/S_-9.PNG)
