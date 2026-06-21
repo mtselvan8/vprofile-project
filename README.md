@@ -34,3 +34,26 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 # VProfile Project by Tamil
+
+## URL
+🌐 URL: https://vpro.mtsinfotech.xyz
+
+## Screenshots
+
+### EC2 Instances Running
+![EC2](screenshots/S_-1.PNG)
+
+### Load Balancer - Active
+![Load Balancer](screenshots/S_-2.PNG)
+
+### S3 Bucket
+![S3](screenshots/S_-3.PNG)
+
+### Application Login Page
+![Login](screenshots/S_-5.PNG)
+
+### Application Dashboard
+![Dashboard](screenshots/S_-7.PNG)
+
+### Database & Cache Working
+![Cache](screenshots/S_-9.PNG)
